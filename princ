@@ -1,7 +1,8 @@
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SetViewMode>55</SetViewMode>
 
 <item>
-      <title>[B]Películas[/B]</title>
+      <title>[i]Películas[/i]</title>
   <thumbnail>https://i.imgur.com/CFqX6bf.png</thumbnail>
 <fanart>https://i.imgur.com/0N9p0X7.jpg</fanart>
 <link>http://ignoreme</link>
@@ -11,7 +12,7 @@
 
   
   <item>
-      <title>[B]Series[/B]</title>
+      <title>[i]Series[/i]</title>
   <thumbnail>https://i.imgur.com/F2pwkvl.png</thumbnail>
 <fanart>https://i.imgur.com/0N9p0X7.jpg</fanart>
 <link>http://ignoreme</link>
